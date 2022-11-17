@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Breaded Ravioli",
+    "price": 6,
+    "description": "Cheese Ravioli, fried then topped with Grated Parmesan Cheese. Served with Marinara.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Potato Skins",
+    "price": 6,
+    "description": "6 Skins fried Golden Brown, then topped with Bacon, Cheddar Cheese, and served with Sour Cream and Chives. Or try them topped with Irish Pot Roast and Swish Cheese ($3 surcharge).",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Fried Chicken Livers",
+    "price": 6,
+    "description": "Served with a side of Ranch, or Homemade Gravy,",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Chicken Quesadilla",
+    "price": 6,
+    "description": "Grilled Chicken & Cheddar Cheese with Salsa and Sour Cream on the side.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Breaded Mushrooms",
+    "price": 6,
+    "description": "Deep fried and served with Ranch dipping sauce.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Jumbo Pretzels",
+    "price": 4.50,
+    "description": "2 Extra Large Hot Pretzels, served with a side of Beer Cheese.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "McCoy's Homemade Pickle Chips",
+    "price": 4.50,
+    "description": "A Generous portion of Pickles breaded and fried to perfection, served with a side of Ranch Dressing.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "price": 6,
+    "description": "6 Crispy friend Mozzarella Sticks served with Marinara sauce.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Saratoga Chips",
+    "price": 4.50,
+    "description": "Crisp fried, thinly sliced Potatoes served with BBQ sauce.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Irish Nachos",
+    "price": 8,
+    "description": "Our Saratoga Chips smothered in Chili, Bacon, Chives, and Cheese Sauce.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Basket O' Fries",
+    "price": 4,
+    "description": "Crispy, and Golden Brown.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Basket O' Loaded Fries",
+    "price": 6,
+    "description": "Topped with Cheddar Cheese and Bacon",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Basket O' Chili Cheese Fries",
+    "price": 8,
+    "description": "Crispy Golden Brown Fries topped with McCoy's Homemade Chili and smothered in Cheddar Cheese",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Chicken Skewers",
+    "price": 6,
+    "description": "Hand cut Chicken Tenders Grilled and Glazed with Teriyaki served over a bed of Lettuce, Tomato, and Jalapeños.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Sweet n' Sour Shrimp",
+    "price": 6,
+    "description": "McCoy's breaded Shrimp, served on a bed of Lettuce with Diced Tomatoes and drizzled with Sweet Chili Sauce.",
+    "category": "Appetizers"
+  },
+  {
+    "name": "Grilled Pepper Steak Wrap",
+    "price": 10,
+    "description": "Delicious Steak Grilled with Red Bell Peppers, Portabello Mushroom, and Provolone Cheese.",
+    "category": "Wraps"
+  },
+  {
+    "name": "Grilled Chicken Wrap",
+    "price": 9.50,
+    "description": "Grilled Chicken Breast with Marinated Portabello Mushroom and Provolone Cheese.",
+    "category": "Wraps"
+  },
+  {
+    "name": "Turkey Club Wrap",
+    "price": 9.50,
+    "description": "Turkey, Bacon, Swiss, Lettuce, Tomato, and Mayo.",
+    "category": "Wraps"
+  },
+  {
+    "name": "Grape Walnut Chicken Salad Wrap",
+    "price": 9,
+    "description": "Our award winning Grape Walnut Chicken Salad with Lettuce and Tomato.",
+    "category": "Wraps"
+  },
+  {
+    "name": "Cheese Burger",
+    "price": 9.50,
+    "description": "Our Thicc Patty, topped with your choice of Cheese: American, Swiss, Cheddar, Pepper Jack, or Bleu Cheese Crumbles.",
+    "category": "Burgers"
+  },
+  {
+    "name": "McCoy's Smokehouse Burger",
+    "price": 9.50,
+    "description": "Our Angus Burger topped with Grilled Onions and Smoked Cheddar Cheese.",
+    "category": "Burgers"
+  },
+  {
+    "name": "Black and Bleu Burger",
+    "price": 9.50,
+    "description": "Our Angus Burger with our Special Blackened Seasoning and Melted Bleu Cheese Crumbles.",
+    "category": "Burgers"
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "price": 9.50,
+    "description": "Our Thick Patty cooked to Specification, and topped with Grilled Mushrooms and Swiss Cheese.",
+    "category": "Burgers"
+  },
+  {
+    "name": "Western Burger",
+    "price": 10,
+    "description": "Topped with BBQ sauce, Pepper Jack Cheese, and two Onion Rings.",
+    "category": "Burgers"
+  },
+  {
+    "name": "Rise and Shine Burger",
+    "price": 10.50,
+    "description": "Our Big Burger with an Over Medium Egg and Bacon.",
+    "category": "Burgers"
+  },
+  {
+    "name": "Fresh Garden Salad",
+    "price": 5.50,
+    "description": "Mixed Salad Greens with Tomatoes, Onions, Cheddar Cheese and Croutons served with your Choice of Dressing. (add Grilled, Blackened, or Fried Chicken +$3)",
+    "category": "Salads"
+  },
+  {
+    "name": "Grape Walnut Chicken Salad",
+    "price": 9,
+    "description": "Our award winning homemade Chicken Salad served on a bed of Fresh Salad Greens topped with Tomatoes, Cheddar Cheese, and Croutons.",
+    "category": "Salads"
+  },
+  {
+    "name": "Taco Salad",
+    "price": 9,
+    "description": "Served in an edible Tortilla Bowl with McCoy's Famous Chili over a Bed of Fresh Salad Greens topped with Tomatoes, Onions, and Cheddar Cheese with Sour Cream and Salsa on the side or Substitute with Salad Dressing.",
+    "category": "Salads"
+  },
+  {
+    "name": "Blackened Chicken Caesar Salad",
+    "price": 9,
+    "description": "Served in an edible Tortilla Bowl with McCoy's Famous Chili over a Bed of Fresh Salad Greens topped with Tomatoes, Onions, and cheddar Cheese with Sour Cream and Salsa on the Side or Substitute with Salad.",
+    "category": "Salads"
+  },
+  {
+    "name": "McCoy's Steak Hoagie",
+    "price": 12,
+    "description": "8oz Ribeye Steak grilled to perfection and served with Mushrooms and Onion on a Hoagie Roll, Topped with Provolone Cheese.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Buffalo Chicken Hoagie",
+    "price": 9,
+    "description": "Tossed in Wing Sauce with Bleu Cheese Crumbles.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Fried Chicken Tender Hoagie",
+    "price": 9,
+    "description": "Lettuce, Pickle, and Onion.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Irish Pot Roast",
+    "price": 9.50,
+    "description": "Tender Pot Roast Simmered in Guiness and served on your Choice of a Fresh Baked Bun or Rye Bread topped with Swiss Cheese and a side of Horsey Mayo.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Grape Walnut Chicken Sandwich",
+    "price": 9,
+    "description": "With Fresh Romaine.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Grilled chicken Breast",
+    "price": 8.50,
+    "description": "6oz Grilled Chicken Breast served on a Bakery Bun topped with Lettuce, Tomato, and Pickle. (Side of Mayo upon request)",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Grilled Chicken Bacon Swiss Breast",
+    "price": 9.50,
+    "description": "Lettuce, Tomato, and Pickle.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Belly Buster Cod on Rye",
+    "price": 9.50,
+    "description": "An 8oz Beer Bettered Cod, Fried Golden Brown served on Rye with Lettuce, Tomato, and Onion with a side of Tartar sauce.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "McCoy's Reuben",
+    "price": 9.50,
+    "description": "Corned Beef with Sauerkraut sauteed together, then smothered with Swiss Cheese and served on Rye Toast with a Side of 1000 Island Dressing.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "B.L.T.",
+    "price": 8,
+    "description": "Double Decker with Bacon piled high on Toast with Lettuce, tomato, and Mayo. Add fried egg $1.",
+    "category": "Sandwiches & Hoagies"
+  },
+  {
+    "name": "Irish Pot Roast Dinner",
+    "price": 10.50,
+    "description": "Served with Rustic Carrots and New Potatoes,",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Open Faced Pot Roast Dinner",
+    "price": 10.50,
+    "description": "Our Signature Pot Roast served over Toast, covered with MNashed Potatoes, Swiss cheese, and topped with Gravy.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Pork Chops",
+    "price": 15,
+    "description": "2 Mouth Watering center Cut French Tipped Chops Grilled to Perfection, with your choice of two sides.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Sirloin Steak Dinner",
+    "price": 15,
+    "description": "Cooked to specification. Your choice of two sides.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Black & Bleu Boneless Chicken Breast",
+    "price": 10.50,
+    "description": "Fresh chicken Breast Topped with Sauteed Mushrooms and Bleu Cheese Crumbles. Your choice of two sides.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Chicken Tenders N' Fries",
+    "price": 9,
+    "description": "A Basket Filled with Home-Style Battered chicken served with Crispy Fries and your choice of Ranch, Honey Mustard, or BBQ sauce.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Fish N' Fries",
+    "price": 9,
+    "description": "A Basket filled with Delicious Battered Mahi Mahi Fillets.",
+    "category": "McCoy's Meals"
+  },
+  {
+    "name": "Shrimp N' Fries",
+    "price": 9,
+    "description": "A Basket filled with Delicious Breaded Shrimps, served with Fries and Coleslaw.",
+    "category": "McCoy's Meals"
+  }
+]
