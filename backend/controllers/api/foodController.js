@@ -39,11 +39,28 @@ exports.getFood = async (req, res) => {
 
   }
   catch (error) {
-    response.status(500).json({
+    res.status(500).json({
       status: "error",
       error: error,
   })
 }
+}
+
+exports.updateFood = async (request, response) => {
+  try{
+    const updatedFood = await Food.findByIdAndUpdate(request.params.id, {
+      name: request.body.name,
+      price: request.body.price,
+      description: request.body.description,
+      category: request.body.category,
+    })
+    response.status(200).json(updatedFood)
+    
+  }catch(error){
+    console.log(error)
+  }finally{
+    console.log('Item Updated') //Correct api route.. or.. check if the correct state is being updated. 
+  }
 }
 
 exports.deleteFood = async (req, res) => {
@@ -76,3 +93,4 @@ exports.createFood = async (request, response) => {
     });
   }
 };
+

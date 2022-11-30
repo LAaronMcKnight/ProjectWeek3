@@ -12,8 +12,9 @@ router.route('/').get(foodController.getMenu)
 // router.route('/admin').post(foodController.createFood)
 router.route('/').post(foodController.createFood)
 router.route('/:id').get(foodController.getFood)
+// router.route('/:id/edit').get(foodController.getFood)
 router.route("/:id").delete(foodController.deleteFood);
-// router.route("/").delete(foodController.deleteFood);
 router.route('/category/:foodCategory').get(foodController.getCategory)
+router.route("/:id/edit").post(foodController.updateFood)
 
 module.exports = router
